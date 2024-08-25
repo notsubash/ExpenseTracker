@@ -1,4 +1,4 @@
-# ExpenseTracker with Streamlit UI
+# 💸Expense Tracker with Streamlit UI
 
 ## Overview
 
